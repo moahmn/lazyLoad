@@ -15,7 +15,7 @@ js:
 ```javascript
 <script>new lazyLoad({/*可以传入一个对象覆盖默认选项，选项见下方*/})</script>
 ```    
-可以自定义选项在实例化时传入
-   1.{threshold:需要提前多少阈值加载图片,默认为0}
-   2.{placeholder:自定义loading,默认为一张灰色背景}
+可以自定义选项在实例化时传入:
+1.{threshold:需要提前多少阈值加载图片,默认为0}
+2.{placeholder:自定义loading,默认为一张灰色背景}
    
