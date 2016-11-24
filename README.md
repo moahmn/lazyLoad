@@ -9,7 +9,7 @@
 js:
 1.在页面中引入
 ```javascript
-   <script type="text/javascript" src="lazyload.js"></script>懒加载JS
+<script type="text/javascript" src="lazyload.js"></script>懒加载JS
 ```
 2.调用
 ```javascript
