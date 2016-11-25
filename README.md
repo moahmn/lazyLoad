@@ -4,7 +4,7 @@
 使用方法：
 ```html
 <img class="lazy" data-original="img/bmw_m1_hood.jpg" width="765" height="574">
-注意：data-original是你的图片路径，class为lazy,需要固定宽高;
+注意：data-original为你的图片真实路径，class为lazy,需要固定宽高;
 ```
 js:
 1.在页面中引入
